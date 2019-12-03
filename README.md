@@ -1,6 +1,9 @@
 # BlinkingLabel
 
-[![CI Status](http://img.shields.io/travis/Asim Khan/BlinkingLabel.svg?style=flat)](https://travis-ci.org/Asim Khan/BlinkingLabel)
+[![CI Status](http://img.shields.io/travis/Asim Khan/BlinkingLabel.svg?style=flat)]
+
+(https://travis-ci.org/Asim Khan/BlinkingLabel)
+
 [![Version](https://img.shields.io/cocoapods/v/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 [![License](https://img.shields.io/cocoapods/l/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 [![Platform](https://img.shields.io/cocoapods/p/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
